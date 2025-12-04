@@ -26,7 +26,7 @@
 ## 🏆My GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ngtruongmetin&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-## 🏆My Favorites Quotes
+## 📧My Favorites Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
