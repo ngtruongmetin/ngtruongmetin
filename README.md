@@ -1,4 +1,4 @@
-# Hello, I'm Ngoc Truong Dang
+# Hello, I'm Truong Ngoc Dang
 🇻🇳 **I'm from Vietnam**
 
 👀 **Here is my personal website:** [schoolcv.vercel.app](https://schoolcv.vercel.app)
