@@ -1,7 +1,7 @@
 # Hello, I'm Truong Ngoc Dang
 🇻🇳 **I'm from Vietnam**
 
-👀 **Here is my personal website:** [schoolcv.vercel.app](https://schoolcv.vercel.app)
+👀 **Here is my personal website:** [ngtruong.bcic.edu.vn](https://ngtruong.bcic.edu.vn)
 
 ✍️ **I am the founder of:** [Binh Chuan IT Club](https://bcic.edu.vn)
 
