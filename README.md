@@ -5,7 +5,7 @@
 
 ✍️ **I am the founder of:** [Binh Chuan IT Club](https://bcic.edu.vn)
 
-📧 **Contact me at:** [ngtruong@bcic.edu.vn](mailto:ngtruong@bcic.edu.vn)
+📧 **Contact me at:** [ngtruongmetin@gmail.com](mailto:ngtruongmetin@gmail.com)
 
 ❤️ **I'm passionate about:**
 - 🪐 Operating Systems (Windows & Linux)
